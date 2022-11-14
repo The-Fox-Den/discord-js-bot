@@ -21,8 +21,6 @@
     "url": "https://github.com/saiteja-madha/discord-js-bot/issues"
   },
   "dependencies": {
-    "@lavaclient/queue": "^2.1.1",
-    "@lavaclient/spotify": "^3.1.0",
     "@vitalets/google-translate-api": "^9.0.0",
     "ascii-table": "0.0.9",
     "btoa": "^1.2.1",
@@ -39,11 +37,9 @@
     "express-session": "^1.17.3",
     "fixedsize-map": "^1.0.1",
     "iso-639-1": "^2.1.15",
-    "lavaclient": "^4.1.1",
     "module-alias": "^2.2.2",
     "moment": "^2.29.4",
     "mongoose": "^6.7.2",
-    "nekos.life": "^3.0.0",
     "node-fetch": "^2.6.7",
     "os": "^0.1.2",
     "pino": "^8.7.0",
