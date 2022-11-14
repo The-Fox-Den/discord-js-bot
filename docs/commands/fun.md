@@ -11,7 +11,6 @@ description: 7 commands
 | **!flip coin**         | **/flip coin** | flip a coin                 |
 | **!flip text \<text>** | **/flip text** | reverses the given message  |
 | **!snake**             | **/snake**     | start a snake game          |
-| **!meme \[category]**  | **/meme**      | get a random meme           |
 | **!together \[game]**  | **/together**  | discord together            |
 
 {% hint style="success" %}

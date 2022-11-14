@@ -29,12 +29,6 @@ module.exports = {
     image: "https://cdn-icons-png.flaticon.com/512/4470/4470928.png",
     emoji: "🎉",
   },
-  INVITE: {
-    name: "Invite",
-    enabled: config.INVITE.ENABLED,
-    image: "https://cdn4.iconfinder.com/data/icons/general-business/150/Invite-512.png",
-    emoji: "📨",
-  },
   INFORMATION: {
     name: "Information",
     image: "https://icons.iconarchive.com/icons/graphicloads/100-flat/128/information-icon.png",
