@@ -42,19 +42,6 @@ module.exports = class Validator {
       process.exit(1);
     }
 
-    // Music
-    if (config.MUSIC.ENABLED) {
-      if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_CLIENT_SECRET) {
-        warn("env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET are missing. Spotify music links won't work");
-      }
-      if (config.MUSIC.LAVALINK_NODES.length == 0) {
-        warn("config.js: There must be at least one node for Lavalink");
-      }
-      if (!["YT", "YTM", "SC"].includes(config.MUSIC.DEFAULT_SOURCE)) {
-        warn("config.js: MUSIC.DEFAULT_SOURCE must be either YT, YTM or SC");
-      }
-    }
-
     // Warnings
     if (config.OWNER_IDS.length === 0) warn("config.js: OWNER_IDS are empty");
     if (!config.SUPPORT_SERVER) warn("config.js: SUPPORT_SERVER is not provided");

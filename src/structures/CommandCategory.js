@@ -12,11 +12,6 @@ module.exports = {
     image: "https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Settings-icon.png",
     emoji: "🤖",
   },
-  ANIME: {
-    name: "Anime",
-    image: "https://wallpaperaccess.com/full/5680679.jpg",
-    emoji: "🎨",
-  },
   ECONOMY: {
     name: "Economy",
     enabled: config.ECONOMY.ENABLED,
@@ -34,12 +29,6 @@ module.exports = {
     image: "https://cdn-icons-png.flaticon.com/512/4470/4470928.png",
     emoji: "🎉",
   },
-  IMAGE: {
-    name: "Image",
-    enabled: config.IMAGE.ENABLED,
-    image: "https://icons.iconarchive.com/icons/dapino/summer-holiday/128/photo-icon.png",
-    emoji: "🖼️",
-  },
   INVITE: {
     name: "Invite",
     enabled: config.INVITE.ENABLED,
@@ -56,12 +45,6 @@ module.exports = {
     enabled: config.MODERATION.ENABLED,
     image: "https://icons.iconarchive.com/icons/lawyerwordpress/law/128/Gavel-Law-icon.png",
     emoji: "🔨",
-  },
-  MUSIC: {
-    name: "Music",
-    enabled: config.MUSIC.ENABLED,
-    image: "https://icons.iconarchive.com/icons/wwalczyszyn/iwindows/256/Music-Library-icon.png",
-    emoji: "🎵",
   },
   OWNER: {
     name: "Owner",
