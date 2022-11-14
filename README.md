@@ -84,12 +84,6 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 - **User Context Interactions**
 - **Advanced Information** Get deep information about a user, channel, role, etc.
 
-### 🎵 **Music:**
-
-- **LossLess Music!** Enjoy high quality lossless music
-- **Multi-Platform** Play music from YouTube, SoundCloud, Spotify, and more
-- **Filters** Apply filters to your music and spice it up
-
 ### 🎉 **Giveaways:**
 
 - **Easy to use** Create giveaways with ease
@@ -121,11 +115,7 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 ### ⚒️ **Utility Commands:**
 
 - **Need Some Help With Something? Use The Utility Commands To Find Out The Answer To It** <br /> _Commands:_ `bigemoji`, `covid`, `pokedex`, `urban`, `weather`, ...
-- **Need Help With Some More Stuff?** <br /> _Commands:_ `help`, `proxies`, `translate`, `paste`, ...
-
-### ⭐ **Anime Content:**
-
-- **Love Anime? Express You Love To Someone Using The React Commands** <br /> _Commands:_ `react`, `hug`, `kiss`, `cuddle`, `pat`, `poke`, `slap`, `smug`, ...
+- **Need Help With Some More Stuff?** <br /> _Commands:_ `help`, `proxies`, `paste`, ...
 
 ### 🪙 **Economy System:**
 
@@ -134,7 +124,7 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 ### 😁 **Fun Commands:**
 
-- **Have Some Fun In Your Server!** <br /> _Commands:_ `animal`, `facts`, `meme`, `flip`, ...
+- **Have Some Fun In Your Server!** <br /> _Commands:_ `animal`, `facts`, `flip`, ...
 - **Play Games And Enjoy Yourself** <br /> _Commands:_ `snake`, `together`, `flip coin`, `flip text`, ...
 
 ### 📨 **Invite Tracking:**
@@ -143,11 +133,6 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 - **Invite Ranks!** Inviter can get awesome rewards and be recognised
 - **Configure these settings and customize them to your liking!** <br /> _Commands:_ `resetinvites`, `addinvites`, `invitesimport`, `inviterank`...
 
-### 📷 **Image Manipulation:**
-
-- **Customize other peoples avatars** <br /> _Commands:_ `blur`, `greyscale`, `invert`, `pixelate`, `blur`, `sepia`, `sharpen`, `ad`, `affect`, `beautiful`, `color`...
-- **Make some images by yourself or make some art** <br /> _Commands:_ `bobross`, `confusedstonk`, `delete`, `facepalm`, ` hitler`, `jail`, `jokeoverhead`, `karaba`, `mms`, `notstonk`, `poutine`, `rainbow`, `rip`, ` shit`, `stonk`, `tatoo`, `thomas`, `trash`, `wanted`, `wasted`, ...
-
 <br>
 
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
@@ -155,3 +140,12 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 - Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
 - Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
 - You can keep track of all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
+
+### TFD-Bot Update:
+removed:
+
+- Image manipulation
+- Music
+- Anime
+- Utilities: translate
+- Fun: meme
