@@ -57,10 +57,6 @@ module.exports = {
     END_EMBED: "#FF468A",
   },
 
-  INVITE: {
-    ENABLED: true,
-  },
-
   MODERATION: {
     ENABLED: false,
     EMBED_COLORS: {
