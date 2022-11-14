@@ -142,10 +142,10 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 - You can keep track of all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
 
 ### TFD-Bot Update:
-removed:
-
+Removed:
 - Image manipulation
 - Music
 - Anime
 - Utilities: translate
 - Fun: meme
+- Invites
